@@ -1,20 +1,14 @@
 {
   "names": {
-    "Bard": "6e69e0627b73045051b14acaf382b1611dd20157fa2a3b8b5b19fa373feeb5bb"
+    "bardlex": "0e4551dbf9c930eaf78cfd0428c1e9ebc1a5928905968a01aa6f3ef6a482cd65"
   },
   "relays": {
-    "6e69e0627b73045051b14acaf382b1611dd20157fa2a3b8b5b19fa373feeb5bb": [
+    "0e4551dbf9c930eaf78cfd0428c1e9ebc1a5928905968a01aa6f3ef6a482cd65": [
       "wss://purplepag.es",
       "wss://relay.damus.io",
       "wss://relay.primal.net",
-      "wss://relay.nostr.band",
-      "wss://relay.snort.social",
-      "wss://relay.current.fyi",
-      "wss://nostr.bitcoiner.social",
-      "wss://nostr.wine",
-      "wss://nostr.orangepill.dev",
-      "wss://nostr-pub.wellorder.net",
-      "wss://nos.lol"
+      "wss://relay.orange-crush.com",
+      "wss://relay.snort.social"
     ]
   }
 }
