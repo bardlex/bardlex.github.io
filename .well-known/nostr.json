@@ -1,14 +1,5 @@
 {
     "names": {
         "_": "0e4551dbf9c930eaf78cfd0428c1e9ebc1a5928905968a01aa6f3ef6a482cd65"
-    },
-    "relays": {
-        "0e4551dbf9c930eaf78cfd0428c1e9ebc1a5928905968a01aa6f3ef6a482cd65": [
-            "wss://offchain.pub",
-            "wss://purplepag.es",
-            "wss://relay.damus.io",
-            "wss://relay.nostr.band",
-            "wss://relay.primal.net"
-        ]
     }
 }
